@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anudeep.live/sitemap.xml
